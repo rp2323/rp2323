@@ -4,11 +4,12 @@
 * Currently living in North Carolina, USA
 * Big basketball fan
 * Big reader
+* Top travel desination: Japan
 
 ## Professional Info
 * Former digital marketer 
-* Discovered my love for data/analysis preparing monthly SEO reports and doing keyword research for clients.
-* Come from a liberal arts/English background, which means I can relate directly to the perspectives of my non-technical audiences.
+* Discovered my love for data/analysis preparing monthly SEO reports and doing keyword research for clients
+* Come from a liberal arts/English background, which means I can relate directly to the perspectives of my non-technical audiences
 
 ## Currently Learning
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
